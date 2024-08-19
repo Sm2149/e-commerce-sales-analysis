@@ -8,5 +8,6 @@ This project analyzes e-commerce sales data to uncover trends and insights that 
 - **Report Generation:** Automates the creation of comprehensive Excel reports, including data tables and visualizations, to support strategic decisions in marketing and inventory management.
 
 This project provides valuable insights into sales performance, customer preferences, and product success, helping businesses optimize their strategies and operations.
+
 **additional information**
 install and unzip the data.csv file once done with that change the file path in the python file.
